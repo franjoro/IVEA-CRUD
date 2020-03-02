@@ -6,7 +6,8 @@ A tomar en cuenta :
 - Es permitido usar base de datos SQL o NoSql.
 - El lenguaje de programación es a discreción del desarrollador.
 
-Al finalizar enviar a fral_98@outlook.com
+Al finalizar enviar la carpeta raiz con su nombre completo a: fral_98@outlook.com  o it@ivea.com.sv
+
 
 ### ✔ Manejar la gestión de clientes, debe contener: ID único, Nombre, Teléfono, Correo Eletrónico.  
 
